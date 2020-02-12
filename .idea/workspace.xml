@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f8f9741-3a03-4a3e-883f-73433e581c71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dino Intern scala developer homework" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dino Intern scala developer homework" type="f1a62948:ProjectNode" />
+                <item name="dino Intern scala developer homework" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dino Intern scala developer homework" type="f1a62948:ProjectNode" />
+                <item name="dino Intern scala developer homework" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dino Intern scala developer homework" type="f1a62948:ProjectNode" />
+                <item name="dino Intern scala developer homework-build" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dino Intern scala developer homework" type="f1a62948:ProjectNode" />
+                <item name="dino Intern scala developer homework-build" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Class" />
+        <option value="Scala Object" />
+        <option value="Scala Worksheet" />
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-278" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1Xfpe7ggPRsJra6BnOFj8FxRJDA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="org.scalatest.FunSuite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.FunSuite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.BinaryTreeTest">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FacedString.Main" />
+      <module name="dino Intern scala developer homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FacedString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dino Intern scala developer homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="" />
+      <option name="myConsoleArgs" value="-usejavacp" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="dino Intern scala developer homework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="BinaryTreeTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\wow42\OneDrive\dino Intern scala developer homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.BinaryTreeTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="dino Intern scala developer homework" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="dino-intern-scala-developer-homework [file:/C:/Users/wow42/OneDrive/dino%20Intern%20scala%20developer%20homework/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="dino Intern scala developer homework-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3162533862523" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="107000737" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f8f9741-3a03-4a3e-883f-73433e581c71" name="Default Changelist" comment="" />
+      <created>1581001155668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581001155668</updated>
+      <workItem from="1581447098999" duration="3270000" />
+      <workItem from="1581533923991" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="-91" key="#Project_Structure" timestamp="1581516659050">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="-91" key="#Project_Structure/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581516659050" />
+    <state x="2610" y="5" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581523466241">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="5" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581523466241" />
+    <state x="2685" y="-52" key="#com.intellij.ide.util.MemberChooser" timestamp="1581447663408">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="-52" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581447663408" />
+    <state x="2610" y="10" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581532849277">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="10" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532849277" />
+    <state x="2610" y="34" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581532102212">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="34" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532102212" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1581532882854">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532882854" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1581532882853">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532882853" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1581532882853">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532882853" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1581532882854">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532882854" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1581531775427">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581531775427" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1581531775427">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581531775427" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1581531775427">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581531775427" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1581531775427">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581531775427" />
+    <state x="2381" y="-107" key="SettingsEditor" timestamp="1581534526448">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="-107" key="SettingsEditor/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581534526448" />
+    <state x="2575" y="74" key="com.intellij.ide.util.TipDialog" timestamp="1581534055851">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2575" y="74" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581534055851" />
+    <state x="2605" y="212" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581532628823">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2605" y="212" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532628823" />
+    <state x="0" y="0" width="1550" height="909" key="dock-window-1" timestamp="1581449429974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1550" height="909" key="dock-window-1/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581449429974" />
+    <state x="2651" y="-47" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2" timestamp="1581532862708">
+      <screen x="1920" y="-270" width="1920" height="1040" />
+    </state>
+    <state x="2651" y="-47" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581532862708" />
+    <state x="432" y="210" key="run.anything.popup" timestamp="1581454035080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="210" key="run.anything.popup/0.0.1536.824/1920.-270.1920.1040@1920.-270.1920.1040" timestamp="1581454035080" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="moduleName" value="dino Intern scala developer homework" />
+  </component>
+</project>
